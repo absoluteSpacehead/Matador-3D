@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8545b67fb68d9d7498ee83bf364aac87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - snapsound: {fileID: 8300000, guid: f30b1414ce3ed5143873ef2278786897, type: 3}
+  - clap: {fileID: 8300000, guid: a709661fd46a3d945a2e096c0ec8dfee, type: 3}
+  - textsoundclip: {fileID: 8300000, guid: 2431e79c2ff909a4a882e3240498a055, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
